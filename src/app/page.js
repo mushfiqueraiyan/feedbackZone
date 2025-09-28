@@ -52,7 +52,7 @@ const HomePage = () => {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold bg-gradient-to-r from-pink-400 via-purple-400 to-indigo-400 bg-clip-text text-transparent mb-2">
-            Feedback App
+            Feedback Zone
           </h1>
           <p className="text-gray-600 text-lg">Share your thoughts with us!</p>
         </div>
